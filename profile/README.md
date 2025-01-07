@@ -10,8 +10,14 @@ TokenFounder is a one click MEME Coin launcher solution designed to enable the t
 
 Telegram Bot: https://t.me/TokenFounderBot
 
+Discord Bot: https://discord.com/oauth2/authorize?client_id=1326149198919503946
+
 VsCode Extension: https://marketplace.visualstudio.com/items?itemName=Token.token-founder
 
-### Privacy Policy
+If you are looking forward to more platforms, please submit it in Issues, or send one email to *aiqubit@hotmail.com*. 
+
+Welcome to participate in open source contributions. TokenFounder is also your project, you can fork it and make it better.
+
+## Privacy Policy
 
 TokenFounderBot will not save any sessions or data cache, do not send any sensitive data to TokenFounderBot, TokenFounderBot will not promise whether your data will be stolen by third parties.
