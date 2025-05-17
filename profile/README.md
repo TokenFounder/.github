@@ -1,5 +1,7 @@
 # Token Founder
 
+![token_founder_pic](https://github.com/user-attachments/assets/5d34eba1-da61-4050-9e49-4c20cbccdff6)
+
 Cross platform MEME launch for everyone, anytime, anywhere, anychain.
 
 ## About Token Founder
